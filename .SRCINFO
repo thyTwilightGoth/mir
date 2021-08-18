@@ -5,6 +5,7 @@ pkgbase = mir
 	url = https://mir-server.io
 	arch = x86_64
 	arch = i686
+	arch = aarch64
 	license = GPL
 	license = LGPL
 	makedepends = git
@@ -52,4 +53,3 @@ pkgbase = mir
 	sha256sums = bf4673dd131f9278f9c55928481baff86c7d5aa7bc5fee176bba5946834e1149
 
 pkgname = mir
-
